@@ -1,4 +1,4 @@
-# Hi there, I'm nathan
+# Hi there, I'm Nathan
 
 I'm a senior high student and I love to tinker with technology.
 
