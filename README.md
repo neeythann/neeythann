@@ -10,6 +10,7 @@ Rustacean, Drainer
 - reddit: https://www.reddit.com/u/neeythann
 - nathan [at]
 - facebook whitehat: https://www.facebook.com/whitehat/profile/neeythan
+- meta whitehat hall of fame 2024 top 31st: https://bugbounty.meta.com/leaderboard/?year=2024
 - Brave Browser – [CVE-2021-22916](https://www.cve.org/CVERecord?id=CVE-2021-22916)
 - Brave Browser – [CVE-2021-45884](https://www.cve.org/CVERecord?id=CVE-2021-45884)
 - Brave Browser – [CVE-2022-47932](https://www.cve.org/CVERecord?id=CVE-2022-47932)
